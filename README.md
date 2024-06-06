@@ -42,7 +42,7 @@
 - 🔭 I’m currently working on a Fishing Social Media Webapp built with Ruby on Rails and React
 - 👯 I’m looking to collaborate on anything that is fun, unqiue, and interesting!
 - 🤔 I’m looking for help with C family of programming languages.
-- 💬 Ask me about this years fantasy league punishment.
+- 💬 Ask me about this years football fantasy league punishment for last place (We're pretty creative).
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love anything that has to do with the outdoors.
 -->
