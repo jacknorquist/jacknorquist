@@ -22,7 +22,7 @@
 ## Follow Me
 
 
-[![Outlook Badge](https://img.shields.io/badge/jack.norquist@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jack.norquist@outlook.com)](jack.norquist@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/jack.norquist@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jack.norquist@outlook.com)](mailto:jack.norquist@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/-jacknorquist-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jack-norquist/)](https://www.linkedin.com/in/jack-norquist/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/jacknorquist)](https://github.com/jacknorquist)
 
