@@ -5,8 +5,6 @@
 
 🚀 Some of my main projects:
 
-- 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
-
 [![ReadMe Card](https://github.com/jacknorquist/rails-react/blob/main/README.md)
 
 [![ReadMe Card](https://github.com/jacknorquist/rails-react/blob/main/README.md)
