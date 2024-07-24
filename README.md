@@ -7,7 +7,7 @@
 
 [![Fiske](https://github.com/jacknorquist/rails-react/blob/main/README.md)
 
-[![Workout App](https://github.com/jacknorquist/workout_app/READEME.md)
+[![Workout App](https://github.com/jacknorquist/workout_app/README.md)
 
 
 
