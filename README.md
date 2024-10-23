@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
- and Databases (PSQL).
+I’m a full-stack software developer that loves building innovative and unique solutions that solve real-world problems. I primarily work in the Node.js ecosystem and use Python for scripting. Currently, I’m exploring Java frameworks like .NET and Spring Boot to expand my skill set.
 
-🚀 Some of my main projects:
-
-[![Fiske](https://github.com/jacknorquist/rails-react/blob/main/README.md)
-
-[![Workout App](https://github.com/jacknorquist/workout_app/blob/main/README.md)
 
 
 
