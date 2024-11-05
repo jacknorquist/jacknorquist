@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a full-stack software developer that loves building innovative and unique solutions that solve real-world problems. I primarily work in the Node.js ecosystem and use Python for scripting. Currently, I’m exploring Java frameworks like .NET and Spring Boot to expand my skill set.
+I’m a full-stack software developer that loves building innovative and unique solutions that solve real-world problems. I primarily work in the Node.js ecosystem and use Python for scripting. Currently, I’m exploring Java frameworks like Spring Boot to expand my skill set.
 
 
 
